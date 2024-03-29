@@ -1,5 +1,5 @@
 #simple car class that includes accelerating and braking capabilities
-class car:
+class Car:
     def __init__(self, year_model, make):
         #initialize the car object with the given year_model and make
         self.__year_model = year_model
